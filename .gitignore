@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+race_results/
+
+__pycache__/
+
+.venv/
+
+# Large generated artifacts from scraping
+mbworld_g55_journey/
+g55_knowledge_base/
+scraper_output.log
+test_page.html
+test_page.png
+browseruse_agent_data/
