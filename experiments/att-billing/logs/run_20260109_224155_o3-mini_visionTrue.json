@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-01-09T22:41:55.333810",
+  "model": "o3-mini",
+  "vision": true,
+  "steps": 5,
+  "max_steps": 30,
+  "usage": {
+    "invocations": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "reasoning_tokens": 0,
+    "cached_tokens": 0,
+    "total_tokens": 0
+  },
+  "per_call_usage": [],
+  "browser_use_cost": 0.0,
+  "result": null
+}

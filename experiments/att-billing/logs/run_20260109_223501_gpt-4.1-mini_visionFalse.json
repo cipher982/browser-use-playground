@@ -1,0 +1,299 @@
+{
+  "timestamp": "2026-01-09T22:35:01.456002",
+  "model": "gpt-4.1-mini",
+  "vision": false,
+  "steps": 31,
+  "max_steps": 30,
+  "usage": {
+    "invocations": 40,
+    "prompt_tokens": 375310,
+    "completion_tokens": 10489,
+    "reasoning_tokens": 0,
+    "cached_tokens": 182272,
+    "total_tokens": 385799
+  },
+  "per_call_usage": [
+    {
+      "call": 1,
+      "prompt": 7359,
+      "completion": 194,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 2,
+      "prompt": 7566,
+      "completion": 161,
+      "reasoning": 0,
+      "cached": 4096
+    },
+    {
+      "call": 3,
+      "prompt": 5727,
+      "completion": 210,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 4,
+      "prompt": 7577,
+      "completion": 220,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 5,
+      "prompt": 8132,
+      "completion": 298,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 6,
+      "prompt": 9235,
+      "completion": 260,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 7,
+      "prompt": 2102,
+      "completion": 45,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 8,
+      "prompt": 9852,
+      "completion": 332,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 9,
+      "prompt": 9662,
+      "completion": 260,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 10,
+      "prompt": 9794,
+      "completion": 350,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 11,
+      "prompt": 9925,
+      "completion": 337,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 12,
+      "prompt": 2285,
+      "completion": 88,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 13,
+      "prompt": 10537,
+      "completion": 371,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 14,
+      "prompt": 10417,
+      "completion": 288,
+      "reasoning": 0,
+      "cached": 6144
+    },
+    {
+      "call": 15,
+      "prompt": 9968,
+      "completion": 369,
+      "reasoning": 0,
+      "cached": 6144
+    },
+    {
+      "call": 16,
+      "prompt": 2386,
+      "completion": 171,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 17,
+      "prompt": 10697,
+      "completion": 295,
+      "reasoning": 0,
+      "cached": 6144
+    },
+    {
+      "call": 18,
+      "prompt": 10475,
+      "completion": 317,
+      "reasoning": 0,
+      "cached": 6144
+    },
+    {
+      "call": 19,
+      "prompt": 11358,
+      "completion": 326,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 20,
+      "prompt": 11664,
+      "completion": 340,
+      "reasoning": 0,
+      "cached": 7168
+    },
+    {
+      "call": 21,
+      "prompt": 2227,
+      "completion": 92,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 22,
+      "prompt": 10561,
+      "completion": 333,
+      "reasoning": 0,
+      "cached": 7168
+    },
+    {
+      "call": 23,
+      "prompt": 11446,
+      "completion": 270,
+      "reasoning": 0,
+      "cached": 7168
+    },
+    {
+      "call": 24,
+      "prompt": 2352,
+      "completion": 50,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 25,
+      "prompt": 12082,
+      "completion": 311,
+      "reasoning": 0,
+      "cached": 7168
+    },
+    {
+      "call": 26,
+      "prompt": 2510,
+      "completion": 88,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 27,
+      "prompt": 12376,
+      "completion": 263,
+      "reasoning": 0,
+      "cached": 7168
+    },
+    {
+      "call": 28,
+      "prompt": 12379,
+      "completion": 278,
+      "reasoning": 0,
+      "cached": 8192
+    },
+    {
+      "call": 29,
+      "prompt": 2522,
+      "completion": 106,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 30,
+      "prompt": 13173,
+      "completion": 371,
+      "reasoning": 0,
+      "cached": 8192
+    },
+    {
+      "call": 31,
+      "prompt": 12724,
+      "completion": 366,
+      "reasoning": 0,
+      "cached": 8192
+    },
+    {
+      "call": 32,
+      "prompt": 2318,
+      "completion": 50,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 33,
+      "prompt": 13172,
+      "completion": 369,
+      "reasoning": 0,
+      "cached": 8192
+    },
+    {
+      "call": 34,
+      "prompt": 13144,
+      "completion": 375,
+      "reasoning": 0,
+      "cached": 9216
+    },
+    {
+      "call": 35,
+      "prompt": 3044,
+      "completion": 50,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 36,
+      "prompt": 13800,
+      "completion": 371,
+      "reasoning": 0,
+      "cached": 8192
+    },
+    {
+      "call": 37,
+      "prompt": 13531,
+      "completion": 251,
+      "reasoning": 0,
+      "cached": 9216
+    },
+    {
+      "call": 38,
+      "prompt": 12918,
+      "completion": 300,
+      "reasoning": 0,
+      "cached": 9216
+    },
+    {
+      "call": 39,
+      "prompt": 12679,
+      "completion": 582,
+      "reasoning": 0,
+      "cached": 3072
+    },
+    {
+      "call": 40,
+      "prompt": 29634,
+      "completion": 381,
+      "reasoning": 0,
+      "cached": 0
+    }
+  ],
+  "browser_use_cost": 0.0,
+  "result": "| Billing Period   | David Rose Total | Notes                  |\n|-----------------|------------------|------------------------|\n| Jun 07 - Jul 06 | $146.64          | $25.00 discount        |\n| Jul 07 - Aug 06 | $146.64          | $25.00 discount        |\n| Aug 07 - Sep 06 | $146.64          | $25.00 discount        |\n| Sep 07 - Oct 06 | $146.64          | $25.00 discount        |\n| May 07 - Jun 06 | $146.75          | $25.00 discount        |\n\nNo charges found for Oct 07 - Nov 06 and Nov 07 - Dec 06 billing periods.\n\nGRAND TOTAL: Approximately $733.31 (sum of all extracted months before discounts).\n\nNote: Extraction is incomplete as not all months from July 2024 to present were fully processed due to reaching maximum allowed steps.\n\nSuccess: false"
+}

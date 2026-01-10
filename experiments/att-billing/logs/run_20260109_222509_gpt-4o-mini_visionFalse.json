@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-01-09T22:25:09.242128",
+  "model": "gpt-4o-mini",
+  "vision": false,
+  "steps": 4,
+  "max_steps": 30,
+  "usage": {
+    "invocations": 4,
+    "prompt_tokens": 22755,
+    "completion_tokens": 776,
+    "reasoning_tokens": 0,
+    "cached_tokens": 14208,
+    "total_tokens": 23531
+  },
+  "per_call_usage": [
+    {
+      "call": 1,
+      "prompt": 5577,
+      "completion": 163,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 2,
+      "prompt": 5648,
+      "completion": 175,
+      "reasoning": 0,
+      "cached": 4224
+    },
+    {
+      "call": 3,
+      "prompt": 5727,
+      "completion": 210,
+      "reasoning": 0,
+      "cached": 4992
+    },
+    {
+      "call": 4,
+      "prompt": 5803,
+      "completion": 228,
+      "reasoning": 0,
+      "cached": 4992
+    }
+  ],
+  "browser_use_cost": 0.0,
+  "result": null
+}

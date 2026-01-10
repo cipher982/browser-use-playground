@@ -1,0 +1,180 @@
+{
+  "timestamp": "2026-01-09T22:53:44.847207",
+  "model": "gpt-5.1",
+  "vision": false,
+  "steps": 22,
+  "max_steps": 30,
+  "usage": {
+    "invocations": 23,
+    "prompt_tokens": 212635,
+    "completion_tokens": 14762,
+    "reasoning_tokens": 4624,
+    "cached_tokens": 113920,
+    "total_tokens": 227397
+  },
+  "per_call_usage": [
+    {
+      "call": 1,
+      "prompt": 7305,
+      "completion": 282,
+      "reasoning": 36,
+      "cached": 0
+    },
+    {
+      "call": 2,
+      "prompt": 7663,
+      "completion": 269,
+      "reasoning": 41,
+      "cached": 4992
+    },
+    {
+      "call": 3,
+      "prompt": 5771,
+      "completion": 361,
+      "reasoning": 32,
+      "cached": 5120
+    },
+    {
+      "call": 4,
+      "prompt": 7702,
+      "completion": 429,
+      "reasoning": 134,
+      "cached": 5248
+    },
+    {
+      "call": 5,
+      "prompt": 8052,
+      "completion": 320,
+      "reasoning": 22,
+      "cached": 5376
+    },
+    {
+      "call": 6,
+      "prompt": 6222,
+      "completion": 352,
+      "reasoning": 58,
+      "cached": 5504
+    },
+    {
+      "call": 7,
+      "prompt": 8534,
+      "completion": 431,
+      "reasoning": 64,
+      "cached": 5632
+    },
+    {
+      "call": 8,
+      "prompt": 6509,
+      "completion": 365,
+      "reasoning": 38,
+      "cached": 0
+    },
+    {
+      "call": 9,
+      "prompt": 8841,
+      "completion": 554,
+      "reasoning": 134,
+      "cached": 5760
+    },
+    {
+      "call": 10,
+      "prompt": 9725,
+      "completion": 547,
+      "reasoning": 287,
+      "cached": 5888
+    },
+    {
+      "call": 11,
+      "prompt": 10093,
+      "completion": 587,
+      "reasoning": 205,
+      "cached": 6272
+    },
+    {
+      "call": 12,
+      "prompt": 9294,
+      "completion": 1030,
+      "reasoning": 422,
+      "cached": 6400
+    },
+    {
+      "call": 13,
+      "prompt": 9758,
+      "completion": 364,
+      "reasoning": 36,
+      "cached": 6528
+    },
+    {
+      "call": 14,
+      "prompt": 10799,
+      "completion": 653,
+      "reasoning": 311,
+      "cached": 0
+    },
+    {
+      "call": 15,
+      "prompt": 10385,
+      "completion": 892,
+      "reasoning": 296,
+      "cached": 6784
+    },
+    {
+      "call": 16,
+      "prompt": 10300,
+      "completion": 1240,
+      "reasoning": 564,
+      "cached": 7168
+    },
+    {
+      "call": 17,
+      "prompt": 11140,
+      "completion": 659,
+      "reasoning": 245,
+      "cached": 7424
+    },
+    {
+      "call": 18,
+      "prompt": 11598,
+      "completion": 852,
+      "reasoning": 330,
+      "cached": 7552
+    },
+    {
+      "call": 19,
+      "prompt": 10915,
+      "completion": 1339,
+      "reasoning": 165,
+      "cached": 7808
+    },
+    {
+      "call": 20,
+      "prompt": 4047,
+      "completion": 417,
+      "reasoning": 196,
+      "cached": 0
+    },
+    {
+      "call": 21,
+      "prompt": 11711,
+      "completion": 527,
+      "reasoning": 135,
+      "cached": 6016
+    },
+    {
+      "call": 22,
+      "prompt": 12117,
+      "completion": 1253,
+      "reasoning": 331,
+      "cached": 8448
+    },
+    {
+      "call": 23,
+      "prompt": 14154,
+      "completion": 1039,
+      "reasoning": 542,
+      "cached": 0
+    }
+  ],
+  "browser_use_cost": 0.0,
+  "result": "| Billing Period   | David Rose Total | Notes |\n|------------------|------------------|-------|\n| Jul 07 - Aug 06  | $146.64          | Includes $120.00 in International Day Pass one-time charges for travel, plus regular monthly access charges and standard surcharges/taxes/fees. |\n| Aug 07 - Sep 06  | $146.64          | Includes $120.00 in International Day Pass one-time charges, plus a small forward monthly charge (about $15) and approximately $11.64 in surcharges/taxes/fees. |\n| Sep 07 - Oct 06  | -$12.62          | Net credit month for David\u2019s line: Activity since last bill is -$12.50 (partial-month access credit for plan change on Sep 12) and -$0.12 in credited surcharges/taxes/fees. |\n| Oct 07 - Nov 06  | $0.00            | Overall bill is $0.00 with an account summary only; there is no separate DAVID ROSE line shown for this period, indicating no new charges or credits applied to his line for this cycle. |\n\nGRAND TOTAL: $280.66 (sum of all listed months for David Rose\u2019s line from July 07\u2013Aug 06 2024 through Oct 07\u2013Nov 06 2024)."
+}

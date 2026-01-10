@@ -1,17 +1,21 @@
+# Environment
 .env
 .env.*
 !.env.example
 
-race_results/
-
+# Python
 __pycache__/
-
 .venv/
 
-# Large generated artifacts from scraping
-mbworld_g55_journey/
-g55_knowledge_base/
-scraper_output.log
-test_page.html
-test_page.png
+# Outputs (experiment results, scrapes, etc)
+outputs/
+*.jsonl
+*.log
+
+# Browser-use artifacts
 browseruse_agent_data/
+**/browser_profile/
+
+# Temp files
+*.html
+*.png

@@ -1,0 +1,138 @@
+{
+  "timestamp": "2026-01-10T11:05:51.698330",
+  "model": "gpt-4.1",
+  "vision": false,
+  "steps": 13,
+  "max_steps": 30,
+  "usage": {
+    "invocations": 17,
+    "prompt_tokens": 132364,
+    "completion_tokens": 4886,
+    "reasoning_tokens": 0,
+    "cached_tokens": 57344,
+    "total_tokens": 137250
+  },
+  "per_call_usage": [
+    {
+      "call": 1,
+      "prompt": 7313,
+      "completion": 192,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 2,
+      "prompt": 7573,
+      "completion": 186,
+      "reasoning": 0,
+      "cached": 4096
+    },
+    {
+      "call": 3,
+      "prompt": 5762,
+      "completion": 202,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 4,
+      "prompt": 8026,
+      "completion": 370,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 5,
+      "prompt": 3367,
+      "completion": 377,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 6,
+      "prompt": 8819,
+      "completion": 244,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 7,
+      "prompt": 9111,
+      "completion": 251,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 8,
+      "prompt": 6361,
+      "completion": 231,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 9,
+      "prompt": 8652,
+      "completion": 257,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 10,
+      "prompt": 8821,
+      "completion": 373,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 11,
+      "prompt": 2599,
+      "completion": 253,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 12,
+      "prompt": 10912,
+      "completion": 393,
+      "reasoning": 0,
+      "cached": 5120
+    },
+    {
+      "call": 13,
+      "prompt": 3073,
+      "completion": 200,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 14,
+      "prompt": 11156,
+      "completion": 365,
+      "reasoning": 0,
+      "cached": 6144
+    },
+    {
+      "call": 15,
+      "prompt": 3076,
+      "completion": 319,
+      "reasoning": 0,
+      "cached": 0
+    },
+    {
+      "call": 16,
+      "prompt": 11667,
+      "completion": 471,
+      "reasoning": 0,
+      "cached": 6144
+    },
+    {
+      "call": 17,
+      "prompt": 16076,
+      "completion": 202,
+      "reasoning": 0,
+      "cached": 0
+    }
+  ],
+  "browser_use_cost": 0.0,
+  "result": "| Billing Period      | David Rose Total | Notes                 |\n|--------------------|------------------|-----------------------|\n| Jul 07 - Aug 06    | $146.64          | No special charges    |\n| Aug 07 - Sep 06    | $146.64          | $25 discount          |\n| Sep 07 - Oct 06    | -$12.62          | No special charges    |\n| Oct 07 - Nov 06    | $0.00            | No line item shown    |\n\nGRAND TOTAL: $280.66\n\nAll available billing periods from July 2024 to present have been extracted for DAVID ROSE (205-441-8790). No international, roaming, or surcharges were found in the visible details for these periods."
+}
